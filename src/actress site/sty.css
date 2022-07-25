@@ -160,14 +160,20 @@ body
     top: 200px;
     font-family: sans-serif;
 }
+#bio
+{
+    background-image: linear-gradient(to left, #DECBA4, #3E5151);
+    height: 1300px;
+    color: #fff;
+}
 p
 {
     width: 600px;
     position: relative;
     left: 460px;
     text-align: left;
-    /* line-height: 2; */
-    /* font-size: 20px; */
+    line-height: 2; 
+    font-size: 20px; 
 }
 li
 {
