@@ -3,7 +3,7 @@ import NavBar from './NavBar'
 
 export default function Films() {
   return (
-    <div>
+    <div id='bio'>
         <NavBar/>
         <div id="film">
         <h1>Projects</h1><br/>
